@@ -1,5 +1,7 @@
-% Here is the code to create the graph shown in "README". It is a bit crude to graph this function with 
-two arrays of 500,000 terms, so it is highly suggested to use the Symbolic Math Toolbox if available. 
+%{ 
+ Here is the code to create the graph shown in "README". It is a bit crude to graph this function with 
+ two arrays of 500,000 terms, so it is highly suggested to use the Symbolic Math Toolbox if available.
+ %}
 tempArray = zeros(1,500000);
 for i = 1:500000
     T = TemperatureMap(i);
