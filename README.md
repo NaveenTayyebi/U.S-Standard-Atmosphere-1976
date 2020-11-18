@@ -1,3 +1,3 @@
 # U.S Standard Atmosphere 1976 
 
-![alt text](http://url/to/Image 11-18-20 at 2.03 AM 3.jpeg)
+![alt text](https://github.com/[NaveenTayyebi]/[MATLAB-U.S-Standard-Atmosphere-1976]/blob/[branch]/Image11-18-20at2.03AM3.jpg?raw=true)
