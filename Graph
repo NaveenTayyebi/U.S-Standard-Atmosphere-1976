@@ -1,0 +1,14 @@
+% Here is the code to create the graph shown in "README". It is a bit crude to graph this function with 
+two arrays of 500,000 terms, so it is highly suggested to use the Symbolic Math Toolbox if available. 
+tempArray = zeros(1,500000);
+for i = 1:500000
+    T = TemperatureMap(i);
+    tempArray(i) = T;  
+end  
+xArray = 1:500000; 
+plot(xArray,tempArray,'r','LineWidth',2);      
+hold on;
+xlim([0 500000])
+ylim([0 1500])
+xlabel('Altitude (m)'); 
+ylabel('Temperature (K)');
