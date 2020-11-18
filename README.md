@@ -6,5 +6,4 @@ A simple function and near to exact model of NASAs documented U.S Standard Atmos
 
 References
 
-[1] National Oceanic and Atmospheric Administration, National Aeronautic and Space 
-    Administration, U.S. Standard Atmosphere, 1976 (U.S Government, 1976), pp. 3-12.
+[1] National Oceanic and Atmospheric Administration, National Aeronautic and Space Administration, U.S. Standard Atmosphere, 1976 (U.S Government, 1976), pp. 3-12.
