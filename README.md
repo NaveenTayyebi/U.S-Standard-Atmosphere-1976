@@ -1,4 +1,3 @@
 # U.S Standard Atmosphere 1976 
 
-
-Atmospheric Temperature from 1 to 500,000m
+![alt text](http://url/to/Image 11-18-20 at 2.03 AM 3.jpeg)
